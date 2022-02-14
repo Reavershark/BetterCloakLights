@@ -1,8 +1,8 @@
-﻿using PulsarPluginLoader;
+﻿using PulsarModLoader;
 
 namespace CloakMod
 {
-    class CloakMod : PulsarPlugin
+    class CloakMod : PulsarMod
     {
         public override string Version => "1.0";
 
