@@ -1,10 +1,15 @@
 ﻿using PulsarModLoader;
 
-namespace CloakMod
+namespace BetterCloakLights
 {
     class CloakMod : PulsarMod
     {
-        public override string Version => "1.0";
+        public CloakMod()
+        {
+            Global.Intensity = PLXMLOptionsIO.Instance.CurrentOptions.GetFloatValue("BetterCloakLightIntensity");
+        }
+
+        public override string Version => "1.1";
 
         public override string Author => "Reavershark";
 

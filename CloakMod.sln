@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloakMod", "CloakMod\CloakMod.csproj", "{7A9F55ED-C87A-4F44-98E2-1E59161D31C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterCloakLights", "CloakMod\BetterCloakLights.csproj", "{7A9F55ED-C87A-4F44-98E2-1E59161D31C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
