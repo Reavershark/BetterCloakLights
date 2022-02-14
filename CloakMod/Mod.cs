@@ -11,7 +11,7 @@ namespace BetterCloakLights
 
         public override string Version => "1.1";
 
-        public override string Author => "Reavershark";
+        public override string Author => "Reavershark, Dragon";
 
         public override string Name => "BetterCloakLights";
 
